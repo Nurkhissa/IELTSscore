@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IELTSscore", "IELTSscore.csproj", "{91E79D4F-030A-45C5-9895-5BCFDBECFFAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E79D4F-030A-45C5-9895-5BCFDBECFFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E79D4F-030A-45C5-9895-5BCFDBECFFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E79D4F-030A-45C5-9895-5BCFDBECFFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E79D4F-030A-45C5-9895-5BCFDBECFFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EAB993F-998B-45FC-8C06-2F29363BDA40}
+	EndGlobalSection
+EndGlobal
